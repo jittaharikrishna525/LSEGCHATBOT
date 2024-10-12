@@ -1,0 +1,23 @@
+{
+    "LSEG": [
+        {"name": "Stock A", "price": 100.5},
+        {"name": "Stock B", "price": 105.3},
+        {"name": "Stock C", "price": 110.1},
+        {"name": "Stock D", "price": 99.9},
+        {"name": "Stock E", "price": 102.5}
+    ],
+    "NASDAQ": [
+        {"name": "Stock F", "price": 200.5},
+        {"name": "Stock G", "price": 205.3},
+        {"name": "Stock H", "price": 210.1},
+        {"name": "Stock I", "price": 199.9},
+        {"name": "Stock J", "price": 202.5}
+    ],
+    "NYSE": [
+        {"name": "Stock K", "price": 300.5},
+        {"name": "Stock L", "price": 305.3},
+        {"name": "Stock M", "price": 310.1},
+        {"name": "Stock N", "price": 299.9},
+        {"name": "Stock O", "price": 302.5}
+    ]
+}
